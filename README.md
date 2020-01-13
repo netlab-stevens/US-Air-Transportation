@@ -1,7 +1,7 @@
  ## Dynamic Network of United States Air Transportation at Multiple Levels
 
 
-Abstract. United States air transportation contributes to the economy
+**Abstract** United States air transportation contributes to the economy
 of the country by facilitating the mobility of people and goods. Air transportation is one of the essential systems in the US and the world. In this
 study, we investigate the dynamics of US air transportation from three
 angles (i.e., number of flights, number of passengers, and the amount
