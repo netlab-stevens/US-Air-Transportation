@@ -8,9 +8,10 @@
 
 <br/>
 <br/>
+
 **Dataset description**
 
-Data contains networks for 10 years, in format compatible with Gephi.
+Data contains networks for 10 years (2007-2016), in format compatible with Gephi.
 
 There exist 3 different representation of Nodes (Airport, City, State) and Edges (Number of passengers, Number of flight, Amount of freight) making in total 9 different networks.
 
