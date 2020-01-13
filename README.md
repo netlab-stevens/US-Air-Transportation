@@ -6,22 +6,22 @@
 
 **Keywords:** Complex networks · Network dynamics · Temporal network
 
-
-
+<br/>
+<br/>
 **Dataset description**
 
 Data contains networks for 10 years, in format compatible with Gephi.
 
-There exist 9 different network representation:
-Node: Airport,  Edge: Number of passengers
-Node: Airport,  Edge: Number of flight
-Node: Airport,  Edge: Amount of freight
-Node: City,  Edge: Number of passengers
-Node: City,  Edge: Number of flight
-Node: City,  Edge: Amount of freight
-Node: State,  Edge: Number of passengers
-Node: State,  Edge: Number of flight
-Node: State,  Edge: Amount of freight
+There exist 9 different network representation:<br/>
+Node: Airport,  Edge: Number of passengers<br/>
+Node: Airport,  Edge: Number of flight<br/>
+Node: Airport,  Edge: Amount of freight<br/>
+Node: City,  Edge: Number of passengers<br/>
+Node: City,  Edge: Number of flight<br/>
+Node: City,  Edge: Amount of freight<br/>
+Node: State,  Edge: Number of passengers<br/>
+Node: State,  Edge: Number of flight<br/>
+Node: State,  Edge: Amount of freight<br/>
 
 
 Airport_Flight_E.csv -> Airport level edge file in which edge weight is in terms of number of flights.
