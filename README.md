@@ -28,4 +28,5 @@ Airport_Flight_E.csv -> Airport level edge file in which edge weight is in terms
 
 **Please Cite as:**
 <br/>
-Charyyev B., Solmaz M., Gunes M.H. (2020) Dynamic Network of United States Air Transportation at Multiple Levels. In: Barbosa H., Gomez-Gardenes J., Gonçalves B., Mangioni G., Menezes R., Oliveira M. (eds) Complex Networks XI. Springer Proceedings in Complexity. Springer, Cham
+Charyyev B., Solmaz M., Gunes M.H. (2020) Dynamic Network of United States Air Transportation at Multiple Levels. In: Barbosa H., Gomez-Gardenes J., Gonçalves B., Mangioni G., Menezes R., Oliveira M. (eds) Complex Networks XI. Springer Proceedings in Complexity. Springer, Cham 
+DOI: https://doi.org/10.1007/978-3-030-40943-2_24
